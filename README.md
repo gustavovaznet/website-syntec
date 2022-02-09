@@ -29,12 +29,6 @@ Syntec Telecommunication Services.
   <tr>
    <td>
       <br>
-			<img width="1080" src="https://user-images.githubusercontent.com/98855318/153235768-f5d8fad0-04f7-4702-b99d-e61fb944e918.png">
-		</td>   
-  </tr>
-  <tr>
-   <td>
-      <br>
 			<img width="1080" src="https://user-images.githubusercontent.com/98855318/153235771-3b3c6c00-53cf-4610-988f-28d2968ea734.png">
 		</td>   
   </tr>
@@ -56,10 +50,6 @@ Syntec Telecommunication Services.
 		</th>
     <th width="20%">
 			Responsive Design
-		</th>
-    <th width="20%">
-			Responsive Design
-		</th>
 	</tr>
 	<tr><!-- Prevent zebra stripes --></tr>
 	<tr>
@@ -80,11 +70,6 @@ Syntec Telecommunication Services.
 		</td>
 	</tr>
 </table>
-![06]()
-![08]()
-![10]()
-![11]()
-![12]()
 
 ## Getting started
 To execute the project, it will be necessary to install / use the following applications:
