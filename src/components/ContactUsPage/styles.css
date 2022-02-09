@@ -1,0 +1,16 @@
+/*CONTACT US PAGE CSS*/
+.btn-contactus {
+    display: inline-block;
+    padding: 10px 30px;
+    background: #404ad6;
+    color: #fff;
+    border: 1px #404ad6 solid;
+    border-radius: 5px;
+    opacity: 0.9;
+    cursor: pointer;
+}
+.btn-contactus:hover {
+    color: #404ad6;
+    background-color: #fff;
+    transition: 0.5s linear;
+}

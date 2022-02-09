@@ -1,0 +1,31 @@
+/*ABOUT CSS*/
+#aboutuspagebtn
+{
+    background-color: #0275d8;
+    color: white;
+    border-radius: 2px 2px 2px 2px;
+    font-size: 17px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#aboutuspagebtn:hover{
+    background-color: #ffffff;
+    color: #0275d8;
+    transition: 0.5s linear;
+}
+
+.btn-about {
+    display: inline-block;
+    padding: 10px 30px;
+    background: #404ad6;
+    color: #fff;
+    border: 1px #404ad6 solid;
+    border-radius: 5px;
+    opacity: 0.9;
+}
+
+.btn-about:hover {
+    color: #fff;
+    border: 1px #404ad6 solid;
+    background-color: #202cd1;
+    transition: 0.5s linear;
+}

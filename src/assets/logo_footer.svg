@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="93.327705mm"
+   height="15.002989mm"
+   viewBox="0 0 93.327705 15.002989"
+   version="1.1"
+   id="svg17855"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="logo_footer.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview17857"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.0000001"
+     inkscape:cx="178.25"
+     inkscape:cy="18.999999"
+     inkscape:window-width="1366"
+     inkscape:window-height="699"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g991" />
+  <defs
+     id="defs17852">
+    <rect
+       x="201.35545"
+       y="416.24576"
+       width="109.51163"
+       height="143.9919"
+       id="rect25988" />
+  </defs>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-59.14341,-114.34569)">
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text25986"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect25988);fill:#000000;fill-opacity:1;stroke:none" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16.2639px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.406598"
+       x="76.193527"
+       y="127.8719"
+       id="text1574-5-0"><tspan
+         sodipodi:role="line"
+         id="tspan1572-4-3"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';fill:#ffffff;stroke:none;stroke-width:0.406598"
+         x="76.193527"
+         y="127.8719"><tspan
+           style="fill:#ffffff;stroke:#ffffff"
+           id="tspan46217">SYN</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#ffffff;stroke:none"
+           id="tspan49789">T    CH</tspan></tspan></text>
+    <path
+       id="rect3409"
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:0.499999;fill-opacity:1;stroke-opacity:1"
+       d="m 62.171686,114.59569 c -1.465263,0 -2.656501,1.12761 -2.759521,2.56573 h 3.916039 v 2.11305 h -3.924308 v 1.5875 h 8.157642 v 2.11305 h -8.157642 v 1.5875 h 12.390975 v 2.11305 H 59.426117 c 0.168794,1.3694 1.329058,2.42311 2.745569,2.42311 h 8.967411 c 1.533367,0 2.767791,-1.23442 2.767791,-2.76779 v -8.96741 c 0,-1.53337 -1.234424,-2.76779 -2.767791,-2.76779 z" />
+    <g
+       id="g991"
+       transform="translate(-11.684891,5.3714688)">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.22323;stroke-opacity:1"
+         id="rect38-3-62"
+         width="11.120968"
+         height="0.98188853"
+         x="131.16412"
+         y="111.99849" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.22323;stroke-opacity:1"
+         id="rect38-3-62-1"
+         width="11.121"
+         height="0.98188853"
+         x="131.16412"
+         y="120.91773" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.22323;stroke-opacity:1"
+         id="rect38-3-62-1-2"
+         width="11.121"
+         height="0.98188853"
+         x="131.16412"
+         y="116.53193" />
+    </g>
+  </g>
+</svg>
